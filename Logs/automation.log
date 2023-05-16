@@ -1,0 +1,63 @@
+2023-05-15 12:42:10,431 - root - INFO - ********** Test_001_Register **********
+2023-05-15 12:42:10,431 - root - INFO - ********** test_register Started **********
+2023-05-15 12:42:15,004 - root - INFO - ********** Test Failed **********
+2023-05-15 12:52:06,951 - root - INFO - ********** Test_001_Register **********
+2023-05-15 12:52:06,951 - root - INFO - ********** Test_001_Register **********
+2023-05-15 12:52:06,951 - root - INFO - ********** Test_001_Register **********
+2023-05-15 12:52:06,951 - root - INFO - ********** test_register Started **********
+2023-05-15 12:52:06,951 - root - INFO - ********** test_register Started **********
+2023-05-15 12:52:06,951 - root - INFO - ********** test_register Started **********
+2023-05-15 12:52:11,872 - root - INFO - ********** Test Failed **********
+2023-05-15 12:52:11,872 - root - INFO - ********** Test Failed **********
+2023-05-15 12:52:11,872 - root - INFO - ********** Test Failed **********
+2023-05-15 12:53:32,484 - root - INFO - ********** Test_001_Register **********
+2023-05-15 12:53:32,484 - root - INFO - ********** Test_001_Register **********
+2023-05-15 12:53:32,484 - root - INFO - ********** Test_001_Register **********
+2023-05-15 12:53:32,485 - root - INFO - ********** test_register Started **********
+2023-05-15 12:53:32,485 - root - INFO - ********** test_register Started **********
+2023-05-15 12:53:32,485 - root - INFO - ********** test_register Started **********
+2023-05-15 12:53:36,491 - root - INFO - ********** Test Failed **********
+2023-05-15 12:53:36,491 - root - INFO - ********** Test Failed **********
+2023-05-15 12:53:36,491 - root - INFO - ********** Test Failed **********
+2023-05-15 12:55:29,568 - root - INFO - ********** Test_001_Login **********
+2023-05-15 12:55:29,568 - root - INFO - ********** Test_001_Login **********
+2023-05-15 12:55:29,568 - root - INFO - ********** Test_001_Login **********
+2023-05-15 12:55:29,568 - root - INFO - ********** Verifying Home Page **********
+2023-05-15 12:55:29,568 - root - INFO - ********** Verifying Home Page **********
+2023-05-15 12:55:29,568 - root - INFO - ********** Verifying Home Page **********
+2023-05-15 12:55:31,193 - root - INFO - ********** TestCase Passed **********
+2023-05-15 12:55:31,193 - root - INFO - ********** TestCase Passed **********
+2023-05-15 12:55:31,193 - root - INFO - ********** TestCase Passed **********
+2023-05-15 12:55:32,857 - root - INFO - ********** Test_001_Login **********
+2023-05-15 12:55:32,857 - root - INFO - ********** Test_001_Login **********
+2023-05-15 12:55:32,857 - root - INFO - ********** Test_001_Login **********
+2023-05-15 12:55:32,857 - root - INFO - ********** test_login Started **********
+2023-05-15 12:55:32,857 - root - INFO - ********** test_login Started **********
+2023-05-15 12:55:32,857 - root - INFO - ********** test_login Started **********
+2023-05-15 12:55:36,030 - root - INFO - ********** TestCase Passed **********
+2023-05-15 12:55:36,030 - root - INFO - ********** TestCase Passed **********
+2023-05-15 12:55:36,030 - root - INFO - ********** TestCase Passed **********
+2023-05-15 12:55:37,376 - root - INFO - ********** Test_001_Register **********
+2023-05-15 12:55:37,376 - root - INFO - ********** Test_001_Register **********
+2023-05-15 12:55:37,376 - root - INFO - ********** Test_001_Register **********
+2023-05-15 12:55:37,377 - root - INFO - ********** test_register Started **********
+2023-05-15 12:55:37,377 - root - INFO - ********** test_register Started **********
+2023-05-15 12:55:37,377 - root - INFO - ********** test_register Started **********
+2023-05-15 12:55:42,655 - root - INFO - ********** Test Failed **********
+2023-05-15 12:55:42,655 - root - INFO - ********** Test Failed **********
+2023-05-15 12:55:42,655 - root - INFO - ********** Test Failed **********
+2023-05-15 12:56:16,349 - root - INFO - ********** Test_002_Login_ddt **********
+2023-05-15 12:56:16,349 - root - INFO - ********** Test_002_Login_ddt **********
+2023-05-15 12:56:16,349 - root - INFO - ********** Test_002_Login_ddt **********
+2023-05-15 12:56:16,350 - root - INFO - ********** test_login Started **********
+2023-05-15 12:56:16,350 - root - INFO - ********** test_login Started **********
+2023-05-15 12:56:16,350 - root - INFO - ********** test_login Started **********
+2023-05-16 09:38:02,518 - root - INFO - ********** Test_001_Register **********
+2023-05-16 09:38:02,518 - root - INFO - ********** Test_001_Register **********
+2023-05-16 09:38:02,518 - root - INFO - ********** Test_001_Register **********
+2023-05-16 09:38:02,527 - root - INFO - ********** test_register Started **********
+2023-05-16 09:38:02,527 - root - INFO - ********** test_register Started **********
+2023-05-16 09:38:02,527 - root - INFO - ********** test_register Started **********
+2023-05-16 09:38:08,251 - root - INFO - ********** Test Failed **********
+2023-05-16 09:38:08,251 - root - INFO - ********** Test Failed **********
+2023-05-16 09:38:08,251 - root - INFO - ********** Test Failed **********
