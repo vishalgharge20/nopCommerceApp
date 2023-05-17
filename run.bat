@@ -1,1 +1,1 @@
-pytest -s -v -m "sanity" --html=./reports/report.html testCases/ --browser chrome
+pytest -s -v -m --html=./reports/report.html testCases/ --browser chrome
